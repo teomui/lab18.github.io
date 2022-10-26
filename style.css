@@ -1,0 +1,27 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: over;
+  background-image: url(./img1.jpg);
+  height: 85vh;
+  width: 100%;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: over;
+  background-image: url(./img2.jpg);
+  height: 85vh;
+  width: 100%;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: over;
+  background-image: url(./img3.jpg);
+  height: 85vh;
+  width: 100%;
+}
+.carousel-indicators {
+  left: 50%;
+  transform: translate(-50%);
+}
